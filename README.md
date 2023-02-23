@@ -11,8 +11,8 @@ Follow these steps to clone the repository, set up a virtual environment, instal
     ```
     git clone https://github.com/ethanmaxey/Wordle.git
     ```
-
-2. Set up a virtual environment:
+   
+2. Set up a virtual environment. If you don't want to use a virtual environment, skip to step 5, in step 5, it should auto install the dependencies:
 
     ```
     cd Wordle
